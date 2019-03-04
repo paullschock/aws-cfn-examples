@@ -1,0 +1,7 @@
+{
+  "Resources": {
+    "cfnexamplebucket": {
+      "Type":"AWS::S3::Bucket"
+    }
+  }
+}
